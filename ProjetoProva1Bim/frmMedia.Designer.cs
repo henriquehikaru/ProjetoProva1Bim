@@ -168,7 +168,7 @@
             this.btnNovo.Location = new System.Drawing.Point(51, 294);
             this.btnNovo.Name = "btnNovo";
             this.btnNovo.Size = new System.Drawing.Size(75, 30);
-            this.btnNovo.TabIndex = 8;
+            this.btnNovo.TabIndex = 9;
             this.btnNovo.Text = "&Novo";
             this.btnNovo.UseVisualStyleBackColor = true;
             this.btnNovo.Click += new System.EventHandler(this.btnNovo_Click);
@@ -180,7 +180,7 @@
             this.btnCalcular.Location = new System.Drawing.Point(153, 294);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(76, 30);
-            this.btnCalcular.TabIndex = 9;
+            this.btnCalcular.TabIndex = 8;
             this.btnCalcular.Text = "&Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
