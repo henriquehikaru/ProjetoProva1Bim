@@ -16,7 +16,7 @@ namespace ProjetoProva1Bim
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMedia());
+            Application.Run(new frmMenu());
         }
     }
 }

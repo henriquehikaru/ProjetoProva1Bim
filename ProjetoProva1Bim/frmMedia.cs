@@ -89,5 +89,10 @@ namespace ProjetoProva1Bim
         {
             numN3.BackColor = Color.White;
         }
+
+        private void frmMedia_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

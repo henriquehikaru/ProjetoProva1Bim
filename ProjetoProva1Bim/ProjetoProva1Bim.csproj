@@ -52,6 +52,12 @@
     <Compile Include="frmMedia.Designer.cs">
       <DependentUpon>frmMedia.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTemperatura.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmMedia.resx">
       <DependentUpon>frmMedia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTemperatura.resx">
       <DependentUpon>frmTemperatura.cs</DependentUpon>
@@ -74,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -87,6 +97,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagens\termometro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagens\aritmetica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagens\temperature-max.256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagens\school-outline.256x222.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
