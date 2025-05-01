@@ -215,7 +215,6 @@
             this.Controls.Add(this.numN1);
             this.Name = "frmMedia";
             this.Text = "Media";
-            this.Load += new System.EventHandler(this.frmMedia_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numN1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numN2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numN3)).EndInit();

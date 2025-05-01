@@ -31,5 +31,19 @@ namespace ProjetoProva1Bim
 
             media.ShowDialog();
         }
+
+        private void frmMenu_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult resposta = MessageBox.Show(
+            "Deseja realmente sair?",
+            "Atenção",
+            MessageBoxButtons.YesNo,
+            MessageBoxIcon.Question);
+
+            if (resposta == DialogResult.No)
+            {
+                e.Cancel = true; // Impede o fechamento do formulário
+            }
+        }
     }
 }
