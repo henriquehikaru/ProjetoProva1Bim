@@ -26,9 +26,6 @@ Sistema em Windows Forms (.NET) desenvolvido em C#, contendo funcionalidades sim
 - Botão **Sair** com confirmação.
 - Mudança de cor ao focar nos campos de nota para melhor experiência visual.
 
-## 🗂️ Estrutura do Projeto
-
-
 ## ✅ Requisitos
 
 - Visual Studio (versão 2019 ou superior)
