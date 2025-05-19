@@ -36,11 +36,11 @@ Sistema em Windows Forms (.NET) desenvolvido em C#, contendo funcionalidades sim
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ProjetoProva1Bim.git
+   git clone https://github.com/henriquehikaru/ProjetoProva1Bim.git
    ````
 2. Abra o projeto no Visual Studio.
 
 3. Compile e execute o projeto com F5 ou clique em Iniciar.
 
 ## 📸 Capturas de Tela
-(Adicione imagens dos formulários aqui, se desejar)
+
