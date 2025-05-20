@@ -1,6 +1,11 @@
 # ProjetoProva1Bim
 
-Sistema em Windows Forms (.NET) desenvolvido em C#, contendo funcionalidades simples para cálculo de **média de notas** e **acréscimo percentual de temperatura**.
+Projeto em Windows Forms (.NET) desenvolvido em C#, com base em dois programas apresentados em um exercício da prova do 1º bimestre do meu curso, contendo um menu com funcionalidades simples para cálculo de **média de notas** e **acréscimo percentual de temperatura**.
+
+## Visão geral do aplicativo (GIF)
+<img src="https://github.com/user-attachments/assets/d7c1da80-470e-4076-bfb8-f97a952b1afb" alt="projeto1bim" width="70%" height="70%">
+
+
 
 ## Funcionalidades
 
