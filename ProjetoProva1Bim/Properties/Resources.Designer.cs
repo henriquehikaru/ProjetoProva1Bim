@@ -73,9 +73,9 @@ namespace ProjetoProva1Bim.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap school_outline_256x222 {
+        internal static System.Drawing.Bitmap school_outline_256x256 {
             get {
-                object obj = ResourceManager.GetObject("school-outline.256x222", resourceCulture);
+                object obj = ResourceManager.GetObject("school_outline_256x256", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -85,7 +85,7 @@ namespace ProjetoProva1Bim.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap temperature_max_256x256 {
             get {
-                object obj = ResourceManager.GetObject("temperature-max.256x256", resourceCulture);
+                object obj = ResourceManager.GetObject("temperature_max_256x256", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

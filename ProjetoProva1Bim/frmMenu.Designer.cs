@@ -72,7 +72,7 @@
             // btnMedia
             // 
             this.btnMedia.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnMedia.Image = global::ProjetoProva1Bim.Properties.Resources.school_outline_256x222;
+            this.btnMedia.Image = global::ProjetoProva1Bim.Properties.Resources.school_outline_256x256;
             this.btnMedia.Location = new System.Drawing.Point(611, 256);
             this.btnMedia.Margin = new System.Windows.Forms.Padding(4);
             this.btnMedia.Name = "btnMedia";
